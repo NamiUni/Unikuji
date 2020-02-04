@@ -1,0 +1,7 @@
+name: Unikuji
+version: 1.0
+main: com.github.namiuni.unikuji.Unikuji
+api-version: 1.13
+commands:
+  unikuji:
+    description: ExampleCMD

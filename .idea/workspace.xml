@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba038ad7-e186-4e8a-83f4-1e8255b7ed65" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XAiXMuQp4YGBfCc2iu9AN3ZAHy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unikuji build" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" value="Unikuji build" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba038ad7-e186-4e8a-83f4-1e8255b7ed65" name="Default Changelist" comment="" />
+      <created>1580495338528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580495338528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="282" key="FileChooserDialogImpl" timestamp="1580799446143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="390" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580799446143" />
+    <state width="1174" height="829" key="GridCell.Tab.0.bottom" timestamp="1580719967282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1174" height="829" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580719967282" />
+    <state width="1174" height="829" key="GridCell.Tab.0.center" timestamp="1580719967281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1174" height="829" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580719967281" />
+    <state width="1174" height="829" key="GridCell.Tab.0.left" timestamp="1580719967281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1174" height="829" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580719967281" />
+    <state width="1174" height="829" key="GridCell.Tab.0.right" timestamp="1580719967282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1174" height="829" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580719967282" />
+    <state x="414" y="284" key="SettingsEditor" timestamp="1580799892468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="284" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1580799892468" />
+    <state x="399" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1580797998906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="399" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580797998906" />
+    <state x="758" y="272" width="672" height="678" key="search.everywhere.popup" timestamp="1580546309905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="758" y="272" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580546309905" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+C:\Users\un_ch\IdeaProjects\Unikuji\build\classes\kotlin\main\com\github\namiuni\unikuji\Unikuji$onCommand$1.class;C:\Users\un_ch\IdeaProjects\Unikuji\build\classes\kotlin\main\com\github\namiuni\unikuji\Unikuji.class
